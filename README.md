@@ -2,7 +2,7 @@
 
 👩‍💻 About Me
 
-* I am a Computer Science Engineering student passionate about backend development and Python programming.
+* I am a Computer Science Engineering graduate passionate about backend development and Python programming.
 * I enjoy building real-world projects that improve my software engineering skills and problem-solving ability.
 
 Currently Focusing On:
